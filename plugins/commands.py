@@ -43,16 +43,16 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('🔥 SΞΛᏒCH HΞᏒΞ 🔥', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/MOVIES_ZILAA'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/sources_cods')
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/Tamilthalaiva3'),
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/tamilthalaiva4')
             ],[
             InlineKeyboardButton('🔥 LIИK GΞИΞᏒΛTOᏒ 🔥', url='http://t.me/FileTo_Link_RoBot')
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('👑 ᖴᗩCΞᗷOOK 👑', url='https://www.facebook.com/anurag.maheswari.925'),
-            InlineKeyboardButton('🥇 IИSTΛGᏒΛM 🥇', url='https://www.instagram.com/anuragmaheshwari_official')
+            InlineKeyboardButton('👑 CREATE YOUR OWN BOT 👑', url='https://t.me/Tamil_Thalaiva'),
+            InlineKeyboardButton('🥇 MY GROUP 🥇', url='https://t.me/sbmovietamzha')
             ],[
             InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCqts9WhhlioK3RB9XQQzoAg')
         ]]         
@@ -93,16 +93,16 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('🔥 SΞΛᏒCH HΞᏒΞ 🔥', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/MOVIES_ZILAA'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/sources_cods')
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/Tamilthalaiva3'),
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/tamilthalaiva4')
             ],[
             InlineKeyboardButton('🔥 LIИK GΞИΞᏒΛTOᏒ 🔥', url='http://t.me/FileTo_Link_RoBot')
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('👑 ᖴᗩCΞᗷOOK 👑', url='https://www.facebook.com/anurag.maheswari.925'),
-            InlineKeyboardButton('🥇 IИSTΛGᏒΛM 🥇', url='https://www.instagram.com/anuragmaheshwari_official')
+            InlineKeyboardButton('👑 CREATE YOUR OWN BOT 👑', url='https://t.me/Tamil_Thalaiva'),
+            InlineKeyboardButton('🥇 MY GROUP 🥇', url='https://t.me/sbmovietamzha')
             ],[
             InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCqts9WhhlioK3RB9XQQzoAg')
         ]]
