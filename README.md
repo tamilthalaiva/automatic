@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/Anuragb8.png" alt="Anurag-Extra-FeaturesLogo">
+  <img src="assets/𝗦𝗕 lover.png" alt="𝗦𝗕-Extra-FeaturesLogo">
 </p>
 <h1 align="center">
-  <b>𝙰NURAG-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂</b>
+  <b>𝗦𝗕-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂</b>
 </h1>
 
 <a href="https://youtube.com/channel/UCqts9WhhlioK3RB9XQQzoAg">
@@ -111,5 +111,5 @@ python3 bot.py
 * /broadcast - to broadcast a message to all Anurag users
 ```
 
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [𝓖𝓾𝓡𝓾](https://telegram.dog/sources_cods) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/anuragmaheshwari_official/) | [ɢɪᴛʜᴜʙ](GitHub.com/8769ANURAG)</b>                                                                                                                                                                                    
-<b>ᴄʜᴀɴɴᴇʟ ›› [ᎯℕUℛᎯᎶ](https://t.me/MOVIES_ZILAA)</b>
+<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [🆂🆄🆁🅹🅸🆃🅷](https://t.me/Tamil_Thalaiva)</b>                                                                                                                                                                                    
+<b>ᴄʜᴀɴɴᴇʟ ›› [𝗦𝗕 Movies Tamizha](https://t.me/+2Rw4cHUjVI4wZWY9)</b>
