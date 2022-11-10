@@ -54,8 +54,6 @@ async def start(client, message):
             InlineKeyboardButton('👑 CREATE YOUR OWN BOT 👑', url='https://t.me/Tamil_Thalaiva'),
             InlineKeyboardButton('🥇 MY GROUP 🥇', url='https://t.me/sbmovietamzha')
             ],[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCqts9WhhlioK3RB9XQQzoAg')
-        ]]         
         reply_markup = InlineKeyboardMarkup(buttons)        
         await message.reply_photo(
             photo=random.choice(PICS),
@@ -104,8 +102,6 @@ async def start(client, message):
             InlineKeyboardButton('👑 CREATE YOUR OWN BOT 👑', url='https://t.me/Tamil_Thalaiva'),
             InlineKeyboardButton('🥇 MY GROUP 🥇', url='https://t.me/sbmovietamzha')
             ],[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCqts9WhhlioK3RB9XQQzoAg')
-        ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
             photo=random.choice(PICS),
